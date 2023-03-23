@@ -1,4 +1,5 @@
 # НТО 2023 команда CupTeam
+все файлы можно найти на GitHub репозитории - https://github.com/IgorDuino/NTO-final-2023
 ## Выполнили
 Команда "**CupTeam**":
 - Андрей Михайлов
